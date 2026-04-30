@@ -7,6 +7,20 @@ Click the image below to watch the detailed explanation of the system, hardware 
 
 [![Arduino Power Supply Monitor](https://img.youtube.com/vi/y2zvvojK88o/maxresdefault.jpg)](https://youtu.be/y2zvvojK88o)
 
+## 📸 Prototype
+<table align="center">
+  <tr>
+    <td><img src="docs/photos/Captura%20de%20tela%202026-04-30%20150923.png" width="250" height="250"></td>
+    <td><img src="docs/photos/Captura%20de%20tela%202026-04-30%20151216.png" width="250" height="250"></td>
+    <td><img src="docs/photos/Captura%20de%20tela%202026-04-30%20151302.png" width="250" height="250"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/photos/Captura%20de%20tela%202026-04-30%20151440.png" width="250" height="250"></td>
+    <td><img src="docs/photos/Captura%20de%20tela%202026-04-30%20151559.png" width="250" height="250"></td>
+    <td align="center">---</td>
+  </tr>
+</table>
+
 ## 🚀 Features
 - **Real-time Monitoring:** Tracks Voltage (V), Amperage (A), and Wattage (W).
 - **High Precision ADC:** Uses the **ADS1115** for accurate voltage readings via a voltage divider.
