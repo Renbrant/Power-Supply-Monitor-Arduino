@@ -1,4 +1,4 @@
-![Project Banner](docs/promo/Banner.png)
+![Project Banner](docs/promo/Banner2.png)
 
 # Arduino Power Supply Monitor
 
