@@ -1,3 +1,5 @@
+![Project Banner](docs/promo/Banner.png)
+
 # Arduino Power Supply Monitor
 
 An Arduino-based monitoring system designed to track voltage, current, and wattage in real-time. This project was specifically developed to test audio amplifiers, allowing for precise graphical analysis of voltage drops and current behavior to ensure the power supply is not limiting equipment performance.
@@ -7,7 +9,7 @@ Click the image below to watch the detailed explanation of the system, hardware 
 
 [![Arduino Power Supply Monitor](https://img.youtube.com/vi/y2zvvojK88o/maxresdefault.jpg)](https://youtu.be/y2zvvojK88o)
 
-## 📸 Prototype
+## 📸 Screenshots
 <table align="center">
   <tr>
     <td><img src="docs/photos/Captura%20de%20tela%202026-04-30%20150923.png" width="250" height="250"></td>
@@ -29,9 +31,9 @@ Click the image below to watch the detailed explanation of the system, hardware 
 - **Performance Analysis:** Ideal for identifying power bottlenecks during high-demand tests (e.g., audio amplifier stress tests).
 
 ## 🛠️ Hardware Components
-- **Microcontroller:** Arduino (any compatible board).
-- **ADC:** ADS1115 (16-bit Analog-to-Digital Converter).
-- **Current Sensor:** ACS712 (Hall Effect).
+- **Microcontroller:** [Arduino](https://www.arduino.cc/) (Compatible boards).
+- **ADC:** [Texas Instruments ADS1115](https://www.ti.com/product/ADS1115) (16-bit Analog-to-Digital Converter).
+- **Current Sensor:** [Allegro MicroSystems ACS712](https://www.allegromicro.com/en/products/sense/current-sensor-ics/zero-to-fifty-amp-integrated-conductor-sensor-ics/acs712) (Hall Effect).
 - **Other:** Voltage divider resistors, Op-amps (for symmetrical rail monitoring).
 
 ## 📂 Project Status
